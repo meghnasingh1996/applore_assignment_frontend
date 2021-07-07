@@ -1,0 +1,22 @@
+.admin-dashboard{
+    button{
+        width: 140px;
+        background-color: #4ea3a3;
+        margin-top: 15px;
+        font-size: 15px;
+        font-weight: bold;
+        color: white;
+        justify-content: flex-end;
+        margin-left: 20px;
+    }
+}
+
+.MuiPaper-root.MuiDialog-paper.MuiDialog-paperScrollPaper.MuiDialog-paperWidthSm.MuiPaper-elevation24.MuiPaper-rounded{
+    width: 600px;
+    height: auto;
+    padding : 30px 30px 30px 30px;
+}
+
+.MuiInputBase-root.MuiInput-root.MuiInput-underline.MuiInputBase-formControl.MuiInput-formControl{
+    margin-bottom: 20px;
+}
